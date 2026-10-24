@@ -1,0 +1,6 @@
+{
+  "name": "Lumina2048 - Pro Photo Resizer & EXIF Preserver",
+  "description": "Downsize Sony a7R VI ARW, RAW, and JPEG photos to 2048px long edge with full EXIF preservation, subject sharpening, and denoising.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
